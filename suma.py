@@ -1,4 +1,4 @@
-num=2
-num=3
-res=num+num
+num1=2
+num2=3
+res=num1+num2
 print("El resultado: ",res)
